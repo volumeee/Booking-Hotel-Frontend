@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .filter-popover {
+  position: fixed !important;
+  top: 120px !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  max-width: 100% !important;
+  max-height: calc(100vh - 120px) !important;
+  width: 100% !important;
+  margin: 0 !important;
+  transform: none !important;
+} */
